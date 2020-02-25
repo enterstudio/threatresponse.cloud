@@ -7,7 +7,7 @@ gem "middleman-dotenv"
 gem "middleman-livereload"
 gem "middleman-sync"
 gem "middleman-blog"
-gem 'middleman-gh-pages'
+gem 'middleman-gh-pages', '>= 0.3.1'
 gem 'compass'
 gem 'middleman-s3_sync'
 gem 'redcarpet', '~> 3.3', '>= 3.3.3'
