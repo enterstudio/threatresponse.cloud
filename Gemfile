@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "middleman"
+gem "middleman", ">= 4.3.8"
 # gem "middleman-cloudfront"
 gem "middleman-dotenv"
 # gem "middleman-google-analytics"
