@@ -6,7 +6,7 @@ gem "middleman-dotenv"
 # gem "middleman-google-analytics"
 gem "middleman-livereload"
 gem "middleman-sync"
-gem "middleman-blog"
+gem "middleman-blog", ">= 4.0.1"
 gem 'middleman-gh-pages'
 gem 'compass'
 gem 'middleman-s3_sync'
